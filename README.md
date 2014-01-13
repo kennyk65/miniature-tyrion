@@ -3,6 +3,4 @@ miniature-tyrion
 
 another repo
 
-this is a change to the branch
-
-and another.
+this is the resolution i am trying to merge.
